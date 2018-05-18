@@ -26,7 +26,9 @@ As of now the project invlolves only training and no explicit testing. Coding is
 Future edits may include 
 1) Incorporating various weight optimization techniques mentioned above.
 2) More types of activation & cost functions.
-3) rying training with more varied datasets and features.
+3) Trying training with more varied datasets and features.
+
+Results of one execution instances, as well as cost function convergece for some optimization methods (code yet to be uploaded) are also available. 
 
 References: 
 
